@@ -1,0 +1,2 @@
+File name - tweets.py
+COMMAND : python tweets.py <numberOfClusters> <initialSeedsFile> <TweetsDataFile> <outputFile>
