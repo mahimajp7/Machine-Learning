@@ -1,0 +1,22 @@
+Step 1: Install these packages
+Packages : stats,class, ROCR, party, ipred, ada, randomForest
+
+Step 2: 
+Import the dataset https://archive.ics.uci.edu/ml/machine-learning-databases/ionosphere/ionosphere.data from the given link and
+read it in your script separately first before building any of the models.
+
+Step 3: 
+Run the code. 
+The results will be displayed on the console. We have recorded values for all 10 folds in the Result.xls file.
+Evaluation metric = ROC curve plots. ( Please find them in the attached Word doc = ROC_plots.doc)
+
+Results found in - Result.xls
+Pseudocode can be found in ROC_plots.doc.
+
+Classifiers analysed:
+---------------------
+• Logistic Regression
+• k-NN
+• Bagging
+• Random Forest(rf)
+• Boosting
