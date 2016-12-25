@@ -1,1 +1,16 @@
 
+README
+-------
+
+We have used CSV format for files.
+CSV format files are turned in.
+
+Please use the command:
+
+mynaivebayes("TrainDataPath", "TestDataPath")
+In our example:
+mynaivebayes("C:/traincsv.csv", "C:/testcsv.csv")
+
+Please install all the required packages. These install packages are commented in the file. Please uncomment them and install.
+
+We have used 90-10 partition on the training data set. 
