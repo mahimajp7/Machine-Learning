@@ -1,0 +1,4 @@
+File name - kmeans.py
+COMMAND : python kmeans.py <numberOfClusters> <input-file-name> <output-file-name>
+
+NOTE : <input-file-name> - Please input the url here: "http://www.utdallas.edu/~axn112530/cs6375/unsupervised/test_data.txt"
